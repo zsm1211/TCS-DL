@@ -1,3 +1,4 @@
+the data can be got by the link https://1drv.ms/u/s!Au_cHqZBKiu2gt83vtq388bmzxQYBw?e=uBXo4S.
 Due to the data is too large, we only upload the training data and mask for B=30. if you want to test B=10 or 20, just slice data to B=10 or 20.
 
 Usage:
